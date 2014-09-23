@@ -1,5 +1,5 @@
-javalikejavascriptinheritance
-=============================
+java-like javascript inheritance
+================================
 
 A simple function that enables for java-like object inheritance in javascript!
 
