@@ -33,7 +33,7 @@ TwoDShape.prototype.toString = function () {
 };
 function ThreeDShape() {
     this.name = "a 3D shape";
-    Log.Message('ThreeDShape Constructor ran');
+    console.log('ThreeDShape Constructor ran');
 };
 ThreeDShape = Extend(TwoDShape, ThreeDShape);
 //declare instance methods only after having called Extend
