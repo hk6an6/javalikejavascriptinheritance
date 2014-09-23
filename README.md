@@ -10,8 +10,8 @@ Features:
 - Overriden superclass member functions are available via <Subclass>.prototype.uber
 - Superclass instance variables are injected into subclass instances (because the superclass constructor is executed before the subclass constructor takes place)
 
-Getting started
-===============
+Sample code for class inheritance
+=================================
 ```javascript
 var Extend = require('./Extend.js');
 function Shape() {
